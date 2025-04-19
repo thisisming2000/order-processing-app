@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1ZUEUHvmKefPIHPqots4tCkvLT2VMnbBK
 """
 
-pip install streamlit openpyxl
+# pip install streamlit openpyxl #
 
 import streamlit as st
 from datetime import datetime, timedelta
